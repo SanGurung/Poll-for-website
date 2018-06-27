@@ -13,14 +13,14 @@ $sel_POST=$_POST['sel'];
 //in form we need to send this keys
 $check="ee5efeee656213319f6bb072def11320".$Pollsid_POST."SPG";
 //Now Checking both Variables // First Security Barier
-if($ans_GET==$check && $Pollsid_GET==$Pollsid_POST && $_POST['pollserver']=="www.ipokhara.com") 
+if($ans_GET==$check && $Pollsid_GET==$Pollsid_POST && $_POST['pollserver']=="www.example.com") 
 { 
 //$security_step_one="Clear";
 	//$GS_ans=$ans_POST; 
 	$GS_id=$Pollsid_POST;
 	$GS_sel=$sel_POST;
 	//now checking cookie//Second Security Barier
-	if($HTTP_COOKIE_VARS[Author]=="www.ipokhara.com" && $HTTP_COOKIE_VARS[keycode]==$Pollsid_GET)
+	if($HTTP_COOKIE_VARS[Author]=="www.example.com" && $HTTP_COOKIE_VARS[keycode]==$Pollsid_GET)
 	  {	
 	$Pollsid=$_GET['id'];
 	$Gen="c7a42de3acefa9db9c9a9d9949b7bb74_".md5(base64_encode($Pollsid));
