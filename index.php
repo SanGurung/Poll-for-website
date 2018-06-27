@@ -38,7 +38,7 @@ document.poll.submit;
 <input type="radio" value="4" name="sel"><?Php echo $OP4; ?><br>
 
 <input type='hidden' name='pid' value=<?php echo $PID; ?> >
-<input type='hidden' name='pollserver' value="www.ipokhara.com" >
+<input type='hidden' name='pollserver' value="www.example.com" >
 <input type="submit" onclick="duelsubmit();" value="this is ">
 <input type="submit" name="pollsubmit" value="Submit" >
 </form>
