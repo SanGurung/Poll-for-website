@@ -21,11 +21,11 @@ include("poll.php");
 
 <head>
 <meta http-equiv="Content-Language" content="en-us">
-<meta name="description" content="Poll ipokhara Results.">
-<meta name="Contents" content="Copyright © 2007 ipokhara.com">
+<meta name="description" content="Poll example Results.">
+<meta name="Contents" content="Copyright Â© 2007 example.com">
 <meta http-equiv="pragma" content="no-cache"> 
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<title>Poll&gt;&gt;Results &gt;&gt; ipokhara.com</title>
+<title>Poll&gt;&gt;Results &gt;&gt; example.com</title>
 </head>
 
 <body topmargin="2" leftmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
@@ -37,8 +37,8 @@ include("poll.php");
 <img border="0" src="images/TopBarblue.jpg" width="149" height="36"></td>
 			<td valign="bottom" height="46" width="392">
 			<p align="right"><font size="2" color="#5B6264"><br>
-			www.ipokhara.com<br>
-			info@ipokhara.com</font></td>
+			www.example.com<br>
+			info@example.com</font></td>
 		</tr>
 		<tr>
 			<td valign="top" background="bar.jpg" height="23" colspan="2">&nbsp;</td>
@@ -58,13 +58,13 @@ include("poll.php");
 				<td valign="top" rowspan="13" width="9" bgcolor="#D2DADF" style="border-left: 1px solid #808080; border-top: 1px solid #808080; border-bottom: 1px solid #808080">&nbsp;</td>
 					<td valign="top" rowspan="13" bgcolor="#D2DADF" style="border-top: 1px solid #808080; border-bottom: 1px solid #808080" width="122">
 					<p align="justify"><font color="#000033" size="2"><br>
-			Dear users if you want your poll question to be on ipokhara.com then 
+			Dear users if you want your poll question to be on example.com then 
 			send us your poll question with option. And if we will find that 
 			question suitable as poll question than we 
 			will try to change poll question with yours</font><font color="#000033">. <font size="2">
 			Thank you::.</font><br>
-			<font size="2">iPokhara.com Team<br>
-			info@ipokhara.com</font></font></td>
+			<font size="2">example.com Team<br>
+			info@example.com</font></font></td>
 				<td valign="top" rowspan="13" width="9" bgcolor="#D2DADF" style="border-right: 1px solid #808080; border-top: 1px solid #808080; border-bottom: 1px solid #808080">&nbsp;</td>
 					<td width="10" valign="top" rowspan="13">&nbsp;</td>
 				<td height="40"></td>
@@ -189,8 +189,8 @@ include("poll.php");
 		<tr>
 			<td height="52" style="border-left-width: 1px; border-right-width: 1px; border-top: 1px solid #DDDDDD; border-bottom-width: 1px" colspan="2">
 			<p align="center"><font color="#5B6264"><font style="font-size: 11pt">
-			www.ipokhara.com-A Name of simplicity, purity &amp; beauty::.</font><font size="2"><br>
-			Copyright © 2007 iPokhara.com. All Rights Reserved.</font></font></td>
+			www.example.com -A Name of simplicity, purity &amp; beauty::.</font><font size="2"><br>
+			Copyright Â© 2007 example.com. All Rights Reserved.</font></font></td>
 		</tr>
 	</table>
 </div>
