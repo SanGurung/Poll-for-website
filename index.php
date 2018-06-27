@@ -3,7 +3,7 @@
 
 ?>
 <?php
-setcookie("Author","www.ipokhara.com",0);
+setcookie("Author","www.example.com",0);
 setcookie("keycode","2",0);
 
 ?>
